@@ -1,6 +1,7 @@
 # html-ppt-to-pdf
 
 将 [html-ppt](https://github.com/lewislulu/html-ppt-skill) 幻灯片（本地或 Vercel 部署）导出为 16:9 横屏、多页合并的 PDF。
+https://github.com/lewislulu/html-ppt-skill
 
 ## 使用
 
@@ -52,4 +53,4 @@ SLIDE_URL=https://your-deck.vercel.app SLIDE_COUNT=14 OUTPUT_FILE=output.pdf npm
 
 ## License
 
-Rosemary-Yan
+MIT
